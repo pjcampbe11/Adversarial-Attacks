@@ -1,4 +1,4 @@
-# Adversarial Attacks Script
+# Adversarial Attack Script
 
 This script implements various adversarial attack techniques on text inputs. Users can select the attack type, provide a text blob as the payload, or submit a text file as input.
 
